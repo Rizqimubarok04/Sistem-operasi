@@ -11,5 +11,5 @@ echo "pengguna yang sedang login: 5 (whoami)"
 
 #menampilkan total pengguna disk di sistem
 echo "total pengguna disk di sistem:"
-df -h | grep menampilkan informasi disk yang digunakan
+df -h | grep '^/' #menampilkan informasi disk yang digunakan
 risqimbrk19@cloudshell:"/tugasssistem_operasi$
