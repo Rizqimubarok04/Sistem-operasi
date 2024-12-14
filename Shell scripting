@@ -1,0 +1,15 @@
+riaqimbrk19@cloudshell:"/tugas_sistem_operasi$ touch info_system.sh
+risqimbrk19@cloudshell:"/tugas_sistem_operasi$ nano info.system.sh
+risqimbrk19@cloudshell:"/tugas_sistem_operasi$ cat info.system.sh
+#!/bin/bash
+
+#menampilkan waktu saat ini
+echo "waktu saat ini [date]"
+
+#menampilkan nama pengguna yang sedang login
+echo "pengguna yang sedang login: 5 (whoami)"
+
+#menampilkan total pengguna disk di sistem
+echo "total pengguna disk di sistem:"
+df -h | grep menampilkan informasi disk yang digunakan
+risqimbrk19@cloudshell:"/tugasssistem_operasi$
